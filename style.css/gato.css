@@ -1,0 +1,20 @@
+body{
+
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background-color: black;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+  #juegodelgato.gato{
+width: 90px;
+height: 90px;
+display: grid;
+place-items: center;
+border: 1px  solid rgba(0, 0, 255, 0.42) ;
+float: inline-start;
+
+  }
